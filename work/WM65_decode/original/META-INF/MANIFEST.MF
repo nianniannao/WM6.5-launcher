@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: MsTh6F0APpv51YwTUAtCzEFDl5wpPlxPnszqWGzS2/w=
+
+Name: classes.dex
+SHA-256-Digest: bWggc0QdCrIu3Tdnlx1EFc+h2Rg0XVe/Go1QLlOVO+Q=
+
+Name: res/anim/drawer_in.xml
+SHA-256-Digest: 7e1fbxU7W6EgKff+cqNM7AHPfpdSrqYySR7atP8sOho=
+
+Name: res/anim/drawer_out.xml
+SHA-256-Digest: Qtwkq24Qklyy/ZTp+/dt6A/nyfIECdSWVHKSWZ4TZk4=
+
+Name: res/anim/fade_in_fast.xml
+SHA-256-Digest: 33I1x4/MT2WudrT0bxFHVf2kJhMthpcCaZuTBkoErDM=
+
+Name: res/anim/fade_out_fast.xml
+SHA-256-Digest: 9DgVEPSEu0h8jAf00H9Wf7E7RCTuMmy+sqR9u3IqH3I=
+
+Name: res/anim/home_in_right.xml
+SHA-256-Digest: fLffm7pyg5GCJf9CDjgeAW3fGDD3fhCANeX8HNiLl4g=
+
+Name: res/anim/home_out_right.xml
+SHA-256-Digest: 8AiAwHzQKcJSXzbf/+stL5D6SiRWU3zfT8VrxntT7Zo=
+
+Name: res/anim/sheet_in.xml
+SHA-256-Digest: X/tPD6AKh55Q0iqy3mlidDcbsgyNnXUxV62N/c7Myww=
+
+Name: res/anim/sheet_out.xml
+SHA-256-Digest: XkqWA0eTk2AqXETogLawnO+4N0NOeD+EitKm9ewV+ZA=
+
+Name: res/anim/slide_in_left.xml
+SHA-256-Digest: oi/rL2dhdk2LWftjyNA8seqhi+tRoEKEHnVg5Z6al0s=
+
+Name: res/anim/slide_in_right.xml
+SHA-256-Digest: 40t1UgRWzAQy1hwtrPqggGwXdeIgZS0GQt8BgtpQzTk=
+
+Name: res/anim/slide_out_left.xml
+SHA-256-Digest: ulr738hJu1ZEUaKUxcbpT723uXYbRLVe+TtFOhdHXNw=
+
+Name: res/anim/slide_out_right.xml
+SHA-256-Digest: CyfQiIiyL6u84/TT4mpaCuUusH7vfT7bhnYDNHyGrXA=
+
+Name: res/drawable/bg_titanium.xml
+SHA-256-Digest: C8/Q9UWtjil87JH/7qJTcwS+K8ZWCiihi1/CuCDvyzU=
+
+Name: res/drawable/ic_launcher.xml
+SHA-256-Digest: d89EyL21TdVoBBoP1ksN6m/L74FZxyu7yyfQ97Y806U=
+
+Name: res/drawable/ic_win.xml
+SHA-256-Digest: /3jAyqrXqDjDCx1i6jBVwkhmf6JzzQL14HKpVodc9ds=
+
+Name: res/xml/lock_service_config.xml
+SHA-256-Digest: B/TAl8hfYX0nwVOlSjfomKsvwKKZcjW2PnpOBmQpC7M=
+
+Name: resources.arsc
+SHA-256-Digest: sipMyuxBSkLD26kcy6EDSC4A0Mbosr7DktGYqm1dcOc=
+

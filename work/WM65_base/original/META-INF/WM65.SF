@@ -1,0 +1,62 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: uOZCR5aNgpacgUhqhcTIOpXT9EcVFgLZHvrgTe5hXfI=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: T7hr1RvxUKuSurGkNHwnNwSAnkzJlZ4MPwHRm2Yy36k=
+
+Name: classes.dex
+SHA-256-Digest: OKi2qqfgAngzuBdadA6jow4V3bRc1+B3Sr65zfTgyQs=
+
+Name: res/anim/drawer_in.xml
+SHA-256-Digest: b418r+qVLlMCGZz/A2jw22geg9An8E8mVILO3a6IC8c=
+
+Name: res/anim/drawer_out.xml
+SHA-256-Digest: 83n1HJdI5Ngl8oSFhPaaBVtRIWZS+qkpBrJCHjrCLjY=
+
+Name: res/anim/fade_in_fast.xml
+SHA-256-Digest: wxDeXPDIOTeCw2Mj6gDXpmwsIuFBZl0DQPeR1IasGIM=
+
+Name: res/anim/fade_out_fast.xml
+SHA-256-Digest: nfeYQHoitLuBmzb/6mzKrLmiaXVlRdkIhYVOaQf/+Y4=
+
+Name: res/anim/home_in_right.xml
+SHA-256-Digest: X06yUDs3OpggpQSR3JvMcjTJMTOpxlWonvWJkWrtomc=
+
+Name: res/anim/home_out_right.xml
+SHA-256-Digest: 5QlIaMQPeMoV9eevsdXNCMe6CDN5U8nXTXTXuwYg5Uw=
+
+Name: res/anim/sheet_in.xml
+SHA-256-Digest: GKJ8PzieQ14PTKBDc4YNuf/fJBsPDK5H9W1YaGw4bYI=
+
+Name: res/anim/sheet_out.xml
+SHA-256-Digest: WMlieUOsjA81GmPKGJtZADdTYa3M0GyJ8NaXF1C6+lQ=
+
+Name: res/anim/slide_in_left.xml
+SHA-256-Digest: Tu6x5LYMmyiQpyCJ7N9eamcwt+28ZX5TiMhBjxvTsWU=
+
+Name: res/anim/slide_in_right.xml
+SHA-256-Digest: XhAKwzzkM/tcBLx7hejWQUc/hXCUIumdAkhKC83+HIs=
+
+Name: res/anim/slide_out_left.xml
+SHA-256-Digest: 3rUiI8KYT5V5ybUUm0jK/DkOGuAN5qOmZCzZmn+oDb4=
+
+Name: res/anim/slide_out_right.xml
+SHA-256-Digest: telSwi3xmDnBrdGVQ0C9t4XiqV5TEncbe6jzqeAWTsU=
+
+Name: res/drawable/bg_titanium.xml
+SHA-256-Digest: cr5dibeftQhDJTUnO0/R8kyxdYntQ/BjPuf0UWebXFk=
+
+Name: res/drawable/ic_launcher.xml
+SHA-256-Digest: vXnuAePKxFwPrIxftBXd1VBPniEhAcmIf9e+i6cC49o=
+
+Name: res/drawable/ic_win.xml
+SHA-256-Digest: FaQudBwZc9K3mDSeAfveqq67i2Fv6GXN/N6XK2GHmlI=
+
+Name: res/xml/lock_service_config.xml
+SHA-256-Digest: gkEduLq2DFuMjM1JJq81rSgDZ74y3+ElbvsagpIL5Fw=
+
+Name: resources.arsc
+SHA-256-Digest: UWhXdYiIUxPw8RFO16My1dT+9u5T/IHmonxkJCuo5aE=
+

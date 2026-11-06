@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="640.0dip" android:width="360.0dip" android:viewportWidth="1080.0" android:viewportHeight="1920.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M0,0 h1080 v1920 h-1080 z">
+        <gradient android:angle="0.0" android:type="linear" android:startX="0.0" android:startY="0.0" android:endX="0.0" android:endY="1920.0">
+            <item android:color="#ff0a1830" android:offset="0.0" />
+            <item android:color="#ff143258" android:offset="0.45" />
+            <item android:color="#ff0c1b33" android:offset="0.78" />
+            <item android:color="#ff060c18" android:offset="1.0" />
+        </gradient>
+    </path>
+    <path android:pathData="M0,0 h1080 v1920 h-1080 z">
+        <gradient android:angle="0.0" android:type="radial" android:gradientRadius="1000.0" android:startX="880.0" android:startY="240.0">
+            <item android:color="#5a4e86c4" android:offset="0.0" />
+            <item android:color="#22335c8c" android:offset="0.45" />
+            <item android:color="#00000000" android:offset="1.0" />
+        </gradient>
+    </path>
+    <path android:pathData="M0,0 h1080 v1920 h-1080 z">
+        <gradient android:angle="0.0" android:type="radial" android:gradientRadius="820.0" android:startX="140.0" android:startY="1700.0">
+            <item android:color="#33215e7a" android:offset="0.0" />
+            <item android:color="#00000000" android:offset="1.0" />
+        </gradient>
+    </path>
+    <path android:fillColor="#00000000" android:pathData="M540,760 a600,600 0 1 0 0.1,0" android:strokeColor="#40e8a23a" android:strokeWidth="64.0" />
+    <path android:fillColor="#00000000" android:pathData="M540,760 a470,470 0 1 0 0.1,0" android:strokeColor="#59e2630f" android:strokeWidth="42.0" />
+    <path android:fillColor="#00000000" android:pathData="M540,760 a350,350 0 1 0 0.1,0" android:strokeColor="#338fc7d6" android:strokeWidth="26.0" />
+    <path android:fillColor="#00000000" android:pathData="M540,760 a230,230 0 1 0 0.1,0" android:strokeColor="#66f4b860" android:strokeWidth="16.0" />
+    <path android:pathData="M0,1520 h1080 v400 h-1080 z">
+        <gradient android:angle="0.0" android:type="linear" android:startX="0.0" android:startY="1520.0" android:endX="0.0" android:endY="1920.0">
+            <item android:color="#003f6b28" android:offset="0.0" />
+            <item android:color="#ff527e22" android:offset="1.0" />
+        </gradient>
+    </path>
+    <path android:pathData="M0,1700 h1080 v220 h-1080 z">
+        <gradient android:angle="0.0" android:type="linear" android:startX="0.0" android:startY="1700.0" android:endX="0.0" android:endY="1920.0">
+            <item android:color="#00000000" android:offset="0.0" />
+            <item android:color="#66010307" android:offset="1.0" />
+        </gradient>
+    </path>
+</vector>
