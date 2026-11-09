@@ -1,0 +1,17 @@
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\AppPickerActivity.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\AppStore.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\DrawerPanel.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\FeedData.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\LockAccessibilityService.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\MainActivity.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\NotesBoard.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\NotesPanel.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\NoteStore.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\NotifService.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\PanelPager.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\QuoteHelper.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\SettingsActivity.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\Ui.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\WallpaperHelper.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\wm65-launcher\src\com\wm65\launcher\WeatherHelper.java
+C:\Users\wing0\WorkBuddy\2026-10-29-01-55-10\out\gen\com\wm65\launcher\R.java
